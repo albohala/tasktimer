@@ -7,6 +7,8 @@ import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
+    // Abdullah Comment
+
     lateinit var Task: ArrayList<String>
     lateinit var adapter : RecyclerViewTask
     lateinit var rvTask : RecyclerView
