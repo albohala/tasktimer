@@ -20,5 +20,8 @@ class MainActivity : AppCompatActivity() {
         adapter = RecyclerViewTask(Task)
         rvTask.adapter = adapter
         rvTask.layoutManager
+
+
+        //hi from wasan
     }
 }
